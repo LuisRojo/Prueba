@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="D:\Users\WorkGroup\Downloads\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932" stamp="1602768795648"/>
-    <entry loc="D:\Users\WorkGroup\Downloads\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre" stamp="1602768795405"/>
+<entry loc="D:\Users\WorkGroup\Downloads\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932" stamp="1602768795648"/>
+<entry loc="D:\Users\WorkGroup\Downloads\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre" stamp="1602768795405"/>
+<entry loc="C:\Program Files\Java\jre1.8.0_251" stamp="1594978167414"/>
 </dirs>
