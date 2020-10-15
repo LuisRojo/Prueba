@@ -827,3 +827,84 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-10-15 15:42:34.331
 !MESSAGE The artifact org.mapstruct:mapstruct-jdk8:jar:1.3.1.Final has been relocated to org.mapstruct:mapstruct:jar:1.3.1.Final
+
+!ENTRY org.eclipse.ui 2 2 2020-10-15 15:44:48.998
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-10-15 15:45:37.533
+!MESSAGE The artifact org.mapstruct:mapstruct-jdk8:jar:1.3.1.Final has been relocated to org.mapstruct:mapstruct:jar:1.3.1.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-10-15 15:45:38.970
+!MESSAGE The artifact org.mapstruct:mapstruct-jdk8:jar:1.3.1.Final has been relocated to org.mapstruct:mapstruct:jar:1.3.1.Final
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:39.919
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:39.951
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:39.959
+!MESSAGE buffering callback sts4.classpath.jDcZdBuQ prueba false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:39.966
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:39.977
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:40.346
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:40.357
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:40.365
+!MESSAGE buffering callback sts4.classpath.jDcZdBuQ prueba false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:40.370
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:40.381
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:42.606
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:42.789
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:42.830
+!MESSAGE buffering callback sts4.classpath.jDcZdBuQ prueba false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:42.917
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:42.996
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:43.021
+!MESSAGE buffering callback sts4.classpath.jDcZdBuQ prueba false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:43.040
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:43.098
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-10-15 15:45:45.055
+!MESSAGE The artifact org.mapstruct:mapstruct-jdk8:jar:1.3.1.Final has been relocated to org.mapstruct:mapstruct:jar:1.3.1.Final
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:55.575
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:55.586
+!MESSAGE classpath=71 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:55.593
+!MESSAGE buffering callback sts4.classpath.jDcZdBuQ prueba false 71
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:55.599
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-15 15:45:55.608
+!MESSAGE executing callback sts4.classpath.jDcZdBuQ SUCCESS [done]
