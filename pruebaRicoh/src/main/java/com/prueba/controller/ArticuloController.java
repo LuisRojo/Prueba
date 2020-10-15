@@ -54,7 +54,7 @@ public class ArticuloController {
 	}
 
 	@PostMapping
-	@ApiOperation(value = "Añade artículos a la base de datos", notes = "No es necesario establecer un ID ya que la base de datos lo hace por defecto")
+	@ApiOperation(value = "A�ade art�culos a la base de datos", notes = "No es necesario establecer un ID ya que la base de datos lo hace por defecto")
 	@ApiResponses(value = { @ApiResponse(code = 200, message = "Se añade el artículo a la base de datos"),
 			@ApiResponse(code = 400, message = "La Request no es correcta, revise que no ha introducido un id de artículo y que el id del catálogo está presente en base de datos") })
 	public ResponseEntity<List<ArticuloDTO>> addArticulo(@RequestBody List<ArticuloDTO> articuloDTO) {
